@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .container .texts h2, .container .texts p {
+    text-align: center;
+    margin-top: 1rem;
+  }
+  .container .secondtext h2, .container .secondtext p {
+    text-align: center;
+    margin-top: 1rem;
+  }
+  .container .secondtext p {
+    color: rgba(61, 61, 63, 0.6980392157);
+  }
+  .container .service-container {
+    border: 1px solid rgb(234, 232, 232);
+    box-shadow: 1px 1px 7px rgb(204, 201, 201);
+    width: 250px;
+    height: 250px;
+    padding: 1.5rem 1.5rem;
+  }
+  .container .service-container p {
+    color: #999999;
+    margin-top: 0.5rem;
+  }
+  .container .infos {
+    display: flex;
+    justify-content: space-between;
+    margin: 3rem 6rem;
+  }
+  .container .doctors-container {
+    width: 250px;
+    height: 350px;
+    border: 1px solid rgb(234, 232, 232);
+    box-shadow: 1px 1px 7px rgb(204, 201, 201);
+  }
+  .container .doctors-container img {
+    width: 80%;
+    margin-left: 1.5rem;
+  }
+  .container .secondtext .doctors {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 6rem;
+  }/*# sourceMappingURL=style.css.map */
